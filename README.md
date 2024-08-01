@@ -1,6 +1,12 @@
 # CourseCompass
 
-**CourseCompass** provides Columbia University students with a personalized course recommendation and career planning tool.
+Course registration, the beginning of many hours of research in search for the perfect course, can be a source of frustration for many students. Oftentimes, students are unsure of what courses they'll perform best in and lack the definitive tools to make less educated guesses and to start making data-backed decisions on the courses that align best with their experience and interests.
+
+If you are one of these folks, we have the solution for you! 
+
+**CourseCompass** provides Columbia University students with a personalized course recommendation and career planning tool. Using Collaborative Filtering, our algorithms are able to intake your existing grades and recommend new courses to take based on the topics and grades you've received thus far. Search through a catalog of existing courses and read professor reviews to get a better grasp of the academic experience they hope to offer, but if you find yourself lost, you can always have CourseCompass recommend suggestions instead!
+
+Built from the ground-up in Ruby on Rails, CourseCompass is fast and extensive in its features, empowering students to make informed decisions regarding their next courseload.
 
 ## Demo Deployments
 
@@ -103,3 +109,9 @@ heroku run bash
 
 ## GitHub Repository
 [CourseCompass on GitHub](https://github.com/Hou-Kaiyuan/CourseCompass)
+
+
+## Demo
+![ezgif-1-27f3632437](https://github.com/user-attachments/assets/fdb66461-ec12-462e-ac89-4fba525e1e9a)
+
+
